@@ -4,4 +4,4 @@ This is my undergraduate final year project, under the supervision of Assoc. Pro
 
 ## Data Sets
 
-All the data sets in this project are download from https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/
+All the data sets in this project are downloaded from https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/
